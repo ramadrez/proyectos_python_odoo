@@ -1,4 +1,4 @@
-# 🐍 Python & Odoo Portfolio
+# 🐍 Portafolio de Python & Odoo
 
 ¡Bienvenido/a a mi repositorio de proyectos!. En este espacio documento mi evolución como desarrollador en **Python**
 
