@@ -21,7 +21,7 @@ Para mantener el orden entre los distintos cursos y proyectos, utilizo el siguie
 ### Identificadores de Origen:
 * **`DX`**: Practicas propias basadas en lo aprendido del evento **"Semana de Python en la Práctica"** de **Daxus Latam**.
 * **`ST`**: Algoritmos y lógica aprendidas del curso de **Stanford Code In Place Self-Guided**.
-* **`PR`**: Proyectos personales e investigación independiente.
+* **`PP`**: Proyectos personales e investigación independiente.
 
 > **Ejemplo:** `DX_03_Python_Generador_de_curriculums.py`.
 
